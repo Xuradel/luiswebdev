@@ -1,20 +1,8 @@
 const Footer = () => {
 
-    const handleClick = (anchor) => () => {
-        const id = `${anchor}-section`;
-        const element = document.getElementById(id);
-        if (element) {
-            element.scrollIntoView({
-                behavior: "smooth",
-                block: "start",
-            });
-        }
-    };
-
-
     return (
         <div className="footerContainer">
-            <a href="/" onClick={handleClick("hero")} className="footer-logo">
+            <a href="https://xuradel.github.io/luiswebdev/" className="footer-logo">
                 <img src={require("../images/webdev.png")} ></img>
             </a>
             <div className="socials">
