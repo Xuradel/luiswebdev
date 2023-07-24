@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/luiswebdev/static/css/main.52b8d656.css",
-    "main.js": "/luiswebdev/static/js/main.56bf8ee8.js",
+    "main.js": "/luiswebdev/static/js/main.5d3eef09.js",
     "static/media/foodpage.png": "/luiswebdev/static/media/foodpage.b3edd400fbfc6d6701d2.png",
     "static/media/vetPage.png": "/luiswebdev/static/media/vetPage.53b5594a528d8e46ef58.png",
     "static/media/storepage.png": "/luiswebdev/static/media/storepage.5f368546a9d9416fa17f.png",
     "static/media/lolPage.png": "/luiswebdev/static/media/lolPage.d651480583b2f2e82596.png",
     "static/media/about.png": "/luiswebdev/static/media/about.4fd064e80aa3f0ec03a6.png",
+    "static/media/proxieves.png": "/luiswebdev/static/media/proxieves.9ff5e1460e13f58ae42e.png",
     "static/media/avatarF.png": "/luiswebdev/static/media/avatarF.2599b0ef5dfe8dbee69b.png",
     "static/media/proxitransfer.png": "/luiswebdev/static/media/proxitransfer.6160146bc34a87bbce51.png",
     "static/media/Poppins-Light.ttf": "/luiswebdev/static/media/Poppins-Light.25b96349cf564e8ba0dc.ttf",
@@ -19,10 +20,10 @@
     "static/media/web.png": "/luiswebdev/static/media/web.82e79893729811d14b10.png",
     "index.html": "/luiswebdev/index.html",
     "main.52b8d656.css.map": "/luiswebdev/static/css/main.52b8d656.css.map",
-    "main.56bf8ee8.js.map": "/luiswebdev/static/js/main.56bf8ee8.js.map"
+    "main.5d3eef09.js.map": "/luiswebdev/static/js/main.5d3eef09.js.map"
   },
   "entrypoints": [
     "static/css/main.52b8d656.css",
-    "static/js/main.56bf8ee8.js"
+    "static/js/main.5d3eef09.js"
   ]
 }
