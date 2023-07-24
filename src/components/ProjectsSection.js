@@ -6,6 +6,7 @@ import storepage from '../images/storepage.png'
 import vetpage from '../images/vetPage.png'
 import proxitransfer from '../images/proxitransfer.png'
 import lolpage from '../images/lolPage.png'
+import proxieves from '../images/proxieves.png'
 
 function ProjectsSection() {
     useEffect(() => {
@@ -85,7 +86,7 @@ function ProjectsSection() {
                             Proxi transfer business
                         </p>
                         <p class="card__descr">
-                            Landing page for the Proxi transfer business solution, made in React with hooks such as useSate, useEffect, bootstrap.
+                            Landing page for money transfer business, made in React with hooks and bootstrap.
                             Design built in figma from a wireframe to a high fidelity design.
                         </p>
                         <div class="card__links">
@@ -101,13 +102,14 @@ function ProjectsSection() {
                     </div>
                 </div>
                 <div class="card">
-                    <div class="card__img" style={{ backgroundImage: `url(${foodpage})`, backgroundSize: "cover" }}></div>
+                    <div class="card__img" style={{ backgroundImage: `url(${proxieves})`, backgroundSize: "cover" }}></div>
                     <div class="card__descr-wrapper">
                         <p class="card__title">
-                            Food Recipe API searcher
+                            Electric Vehicle Dealership
                         </p>
                         <p class="card__descr">
-                            Simple App where you can look for your favorite dishes recipes, using React useState, useEffect and fetching API.
+                            Landing page for an electric car dealership, focused on a minimalistic proffesional look.
+                            Hooks and framer motion used.
                         </p>
                         <div class="card__links">
                             <div>
