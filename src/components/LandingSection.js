@@ -1,16 +1,18 @@
 import React from "react";
 
-
 const LandingSection = () => {
+
+
+
     return (
         <div id="landingPage" className="container">
             <div className="text">
                 <h1 className="greeting">Hello There! I'm</h1><br />
                 <h1 className="greeting2">Luis<span className="name2"> Escobar</span></h1><br />
-                <p className="bio">I am a <span className="popBold"> Front End Developer</span> specialised in <span className="gold"> React.</span></p>
+                <p className="bio">I am a <span className="popBold"> Front End Developer.</span> <br></br>I Specialize in <span className="gold"> React and UX & UI design.</span></p>
                 <p className="bio">Based in San Jose, <span className="gold"> Costa Rica.</span></p>
             </div>
-                <img src={require("../images/avatarF.png")} alt="avatarLogo" className="avatar"></img>
+            <img src={require("../images/avatarF.png")} alt="avatarLogo" className="avatar"></img>
         </div>
     )
 }
